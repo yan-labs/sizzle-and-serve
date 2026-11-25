@@ -1,0 +1,25 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  background: #2b2118;
+  font-family: system-ui, sans-serif;
+  overflow: hidden;
+}
+main {
+  width: 100%;
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 0;
+}
+canvas {
+  display: block;
+  width: 100%;
+  height: auto;
+  background: #f7e8d0;
+}
+.keys {
+  color: #b9a888;
+  font-size: 13px;
+  text-align: center;
+  margin: 6px 0 0;
+}
